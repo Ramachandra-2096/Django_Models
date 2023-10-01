@@ -1,0 +1,23 @@
+/* styles.css */
+#kk {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+form {
+    border: 1px solid #ccc;
+    padding: 30px;
+}
+
+legend {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+button[type="submit"] {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
